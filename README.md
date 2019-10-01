@@ -11,4 +11,11 @@ This repository is highly exclusive to encourage upcoming flutter developers. Sh
 
 Highly encourage you to attach screen-shots of your work to show more effectiveness.
 
+### Attach your details in `CONTRIBUTORS.md` in following manner
+
+`#### Name: [YOUR NAME](GitHub link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)`
+
 Cheers!

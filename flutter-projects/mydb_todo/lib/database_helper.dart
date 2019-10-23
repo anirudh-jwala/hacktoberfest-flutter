@@ -7,6 +7,7 @@ import 'package:path_provider/path_provider.dart';
 class DatabaseHelper {
   // Singleton
   static DatabaseHelper _databaseHelper;
+
   // Singleton
   static Database _database;
 
@@ -81,7 +82,8 @@ class DatabaseHelper {
 
   Future<int> getCount() async {
     Database db = await this.database;
-    List<Map<String, dynamic>> x = await db.rawQuery('SELECT COUNT (*) FROM $noteTable');
+    List<Map<String, dynamic>> x =
+        await db.rawQuery('SELECT COUNT (*) FROM $noteTable');
     int result = Sqflite.firstIntValue(x);
     return result;
   }

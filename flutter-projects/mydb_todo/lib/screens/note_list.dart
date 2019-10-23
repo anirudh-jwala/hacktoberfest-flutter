@@ -25,17 +25,24 @@ class _NoteListState extends State<NoteList> {
         backgroundColor: Colors.purple,
         child: Icon(Icons.add),
         onPressed: () {
-          navigateToDetail(Note("", "", 2), "Add Note");
+          navigateToDetail(
+            Note("", "", 2),
+            "Add Note",
+          );
         },
       ),
     );
   }
 
   void navigateToDetail(Note note, String title) async {
-    bool result =
-        await Navigator.push(context, MaterialPageRoute(builder: (context) {
-      return NoteDetail(note, title);
-    }));
+    bool result = await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) {
+          return NoteDetail(note, title);
+        },
+      ),
+    );
 
     if (result == true) {
       // Update the view

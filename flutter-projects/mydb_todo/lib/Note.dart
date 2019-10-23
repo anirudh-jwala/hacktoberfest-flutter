@@ -1,5 +1,4 @@
-class Note{
-
+class Note {
   int _id;
   String _title;
   String _description;
@@ -7,27 +6,33 @@ class Note{
   int _priority;
 
   Note(this._title, this._date, this._priority, [this._description]);
+
   // Having [] are optional parameters
 
   // When you want to edit that note taken down, you would use this to call and edit with help of ID
-  Note.withId(this._id, this._title, this._date, this._priority, [this._description]);
+  Note.withId(this._id, this._title, this._date, this._priority,
+      [this._description]);
 
   // Getters
 
   int get id => _id;
+
   String get title => _title;
+
   String get description => _description;
+
   String get date => _date;
+
   int get priority => _priority;
 
   // Setters
-  set title(String newTitle){
+  set title(String newTitle) {
     if (newTitle.length <= 255) {
       this._title = newTitle;
     }
   }
-  
-  set description(String newDescription){
+
+  set description(String newDescription) {
     if (newDescription.length <= 255) {
       this._description = newDescription;
     }
@@ -48,7 +53,7 @@ class Note{
   // Convert Note object to Map object
   Map<String, dynamic> toMap() {
     var map = Map<String, dynamic>();
-    if(id != null) {
+    if (id != null) {
       map['id'] = _id;
     }
     map['title'] = _title;

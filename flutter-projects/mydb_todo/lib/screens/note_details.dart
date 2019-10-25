@@ -228,8 +228,8 @@ class NoteDetailState extends State<NoteDetail> {
     return priority;
   }
 
-  void moveToLastScreen() {
-    Navigator.pop(context, true);
+  Future<bool> moveToLastScreen() async {
+    return Navigator.pop(context, true);
   }
 
   void _showAlertDialog(String title, String message) {

@@ -10,7 +10,7 @@
 
 - Place: Colombo , Sri Lanka
 - Bio:Student @ SUSL
-- GitHub: [KavishkaRajakaruna](https://github.com/KavishkaRajakakruna)
+- GitHub: [KavishkaRajakaruna](https://github.com/KavishkaRajakaruna)
 
 #### Name: [Kasidech Chumkun](https://github.com/Kawaeee)
 

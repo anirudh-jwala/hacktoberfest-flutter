@@ -1,25 +1,25 @@
 # Attach your details here,
 
-#### Name: [Anirudh Jwala](github.com/anirudh-jwala)
+#### Name: [Anirudh Jwala](https://github.com/anirudh-jwala)
 
 - Place: Hyderabad, Telangana, India
 - Bio: I write code!
-- GitHub: [Anirudh Jwala](github.com/anirudh-jwala)
+- GitHub: [Anirudh Jwala](https://github.com/anirudh-jwala)
 
-#### Name: [Kavishka Hirushan](github.com/KavishkaRajakaruna)
+#### Name: [Kavishka Hirushan](https://github.com/KavishkaRajakaruna)
 
 - Place: Colombo , Sri Lanka
 - Bio:Student @ SUSL
-- GitHub: [KavishkaRajakaruna](github.com/KavishkaRajakakruna)
+- GitHub: [KavishkaRajakaruna](https://github.com/KavishkaRajakakruna)
 
-#### Name: [Kasidech Chumkun](github.com/Kawaeee)
+#### Name: [Kasidech Chumkun](https://github.com/Kawaeee)
 
 - Place: Bangkok , Thailand
 - Bio: Senior computer science student @ KMUTT
-- GitHub: [Kawaeee](github.com/Kawaeee)
+- GitHub: [Kawaeee](https://github.com/Kawaeee)
 
-#### Name: [Victor Eronmosele](github.com/herovickers)
+#### Name: [Victor Eronmosele](https://github.com/herovickers)
 
 - Place: Lagos , Nigeria
 - Bio: Mobile developer
-- GitHub: [herovickers](github.com/herovickers)
+- GitHub: [herovickers](https://github.com/herovickers)

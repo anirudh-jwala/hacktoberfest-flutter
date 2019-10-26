@@ -23,3 +23,9 @@
 - Place: Lagos , Nigeria
 - Bio: Mobile developer
 - GitHub: [herovickers](https://github.com/herovickers)
+
+#### Name: [Mirza Younus Baig](https://github.com/Mirza-Younus-Baig)
+
+- Place: India
+- Bio: Computer Science Intern
+- GitHub: [Mirza-Younus-Baig](https://github.com/Mirza-Younus-Baig)

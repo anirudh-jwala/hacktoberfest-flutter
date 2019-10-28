@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:mydb_todo/database_helper.dart';
-import 'note_details.dart';
 import 'package:mydb_todo/Note.dart';
+import 'package:mydb_todo/db_helper.dart';
+import 'package:mydb_todo/note_model.dart';
+
+import 'note_details.dart';
 
 class NoteList extends StatefulWidget {
   @override
@@ -9,7 +11,7 @@ class NoteList extends StatefulWidget {
 }
 
 class _NoteListState extends State<NoteList> {
-  DatabaseHelper databaseHelper = DatabaseHelper();
+  //DatabaseHelper databaseHelper = DatabaseHelper();
   List<Note> noteList;
   int count = 0;
 
@@ -20,7 +22,7 @@ class _NoteListState extends State<NoteList> {
         title: Text('LCO ToDo'),
         backgroundColor: Colors.purple,
       ),
-      body: Container(),
+      body: ToDoListWidget(),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.purple,
         child: Icon(Icons.add),
@@ -47,5 +49,41 @@ class _NoteListState extends State<NoteList> {
     if (result == true) {
       // Update the view
     }
+  }
+}
+
+class ToDoListWidget extends StatefulWidget {
+  @override
+  _ToDoListWidgetState createState() => _ToDoListWidgetState();
+}
+
+class _ToDoListWidgetState extends State<ToDoListWidget> {
+  DBHelper dbHelper = new DBHelper();
+
+  @override
+  Widget build(BuildContext context) {
+    return FutureBuilder(
+      future: dbHelper.getAllNotes(),
+      builder: (context, snapShot) {
+        if (snapShot.hasData) {
+          List<NoteModel> notesList = snapShot.data;
+          return ListView.builder(
+            shrinkWrap: true,
+            itemCount: notesList == null ? 0 : notesList.length,
+            itemBuilder: (BuildContext context, int index) {
+              NoteModel note = notesList[index];
+              //TODO: Implement the new DB Helper in the note details screen
+              return ListTile(
+                title: Text(note.title),
+                subtitle: Text(note.desc),
+                leading: Icon(Icons.note),
+                trailing: Icon(Icons.arrow_right),
+              );
+            },
+          );
+        }
+        return new CircularProgressIndicator();
+      },
+    );
   }
 }

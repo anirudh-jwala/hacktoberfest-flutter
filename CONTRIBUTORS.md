@@ -29,3 +29,8 @@
 - Place: India
 - Bio: Computer Science Intern
 - GitHub: [Mirza-Younus-Baig](https://github.com/Mirza-Younus-Baig)
+
+#### Name: [Praful Mishra](https://github.com/praful0203)
+- Place: Nagpur, Maharashtra, India
+- Bio: Android Developer and Flutter Enthusiast
+- GitHub: [Praful Mishra](https://github.com/praful0203)

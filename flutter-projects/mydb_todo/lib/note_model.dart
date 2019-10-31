@@ -1,10 +1,11 @@
 class NoteModel {
-  final int id;
-  final String title;
-  final String desc;
-  final int priority;
+  int id;
+  String title;
+  String desc;
+  String date;
+  int priority;
 
-  NoteModel({this.id, this.title, this.desc, this.priority});
+  NoteModel({this.id, this.title, this.desc, this.priority, this.date});
 
   Map<String, dynamic> toMap() {
     return {
@@ -12,6 +13,7 @@ class NoteModel {
       'title': title,
       'desc': desc,
       'priority': priority,
+      'date': date
     };
   }
 }

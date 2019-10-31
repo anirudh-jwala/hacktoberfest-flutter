@@ -12,7 +12,7 @@ class NoteList extends StatefulWidget {
 
 class _NoteListState extends State<NoteList> {
   //DatabaseHelper databaseHelper = DatabaseHelper();
-  List<Note> noteList;
+  List<NoteModel> noteList;
   int count = 0;
 
   @override
@@ -28,7 +28,7 @@ class _NoteListState extends State<NoteList> {
         child: Icon(Icons.add),
         onPressed: () {
           navigateToDetail(
-            Note("", "", 2),
+            NoteModel(),
             "Add Note",
           );
         },
@@ -36,7 +36,7 @@ class _NoteListState extends State<NoteList> {
     );
   }
 
-  void navigateToDetail(Note note, String title) async {
+  void navigateToDetail(NoteModel note, String title) async {
     bool result = await Navigator.push(
       context,
       MaterialPageRoute(
@@ -72,7 +72,6 @@ class _ToDoListWidgetState extends State<ToDoListWidget> {
             itemCount: notesList == null ? 0 : notesList.length,
             itemBuilder: (BuildContext context, int index) {
               NoteModel note = notesList[index];
-              //TODO: Implement the new DB Helper in the note details screen
               return ListTile(
                 title: Text(note.title),
                 subtitle: Text(note.desc),

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:mydb_todo/Note.dart';
-import 'package:mydb_todo/database_helper.dart';
 import 'package:intl/intl.dart';
+import 'package:mydb_todo/db_helper.dart';
+import '../note_model.dart';
 
 class NoteDetail extends StatefulWidget {
   final String appBarTitle;
-  final Note note;
+  final NoteModel note;
 
   NoteDetail(this.note, this.appBarTitle);
 
@@ -17,9 +17,9 @@ class NoteDetail extends StatefulWidget {
 
 class NoteDetailState extends State<NoteDetail> {
   static var _priorities = ['High', 'Low'];
-  DatabaseHelper helper = DatabaseHelper();
+  DBHelper helper = DBHelper();
   String appBarTitle;
-  Note note;
+  NoteModel note;
 
   NoteDetailState(this.note, this.appBarTitle);
 
@@ -30,7 +30,7 @@ class NoteDetailState extends State<NoteDetail> {
   Widget build(BuildContext context) {
     TextStyle textStyle = Theme.of(context).textTheme.title;
     titleController.text = note.title;
-    descriptionController.text = note.description;
+    descriptionController.text = note.desc;
     return WillPopScope(
       onWillPop: moveToLastScreen,
       child: Scaffold(
@@ -167,7 +167,7 @@ class NoteDetailState extends State<NoteDetail> {
   }
 
   void updateDescription() {
-    note.description = descriptionController.text;
+    note.desc = descriptionController.text;
   }
 
   void _save() async {
@@ -177,7 +177,7 @@ class NoteDetailState extends State<NoteDetail> {
     if (note.id != null) {
       result = await helper.updateNote(note);
     } else {
-      result = await helper.insertNote(note);
+      result = await helper.insertNotes(note);
     }
 
     if (result != 0) {

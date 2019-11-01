@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:mydb_todo/Note.dart';
 import 'package:mydb_todo/database_helper.dart';
 import 'package:intl/intl.dart';
+import 'package:mydb_todo/util.dart';
 
 class NoteDetail extends StatefulWidget {
   final String appBarTitle;
@@ -16,10 +17,10 @@ class NoteDetail extends StatefulWidget {
 }
 
 class NoteDetailState extends State<NoteDetail> {
-  static var _priorities = ['High', 'Low'];
   DatabaseHelper helper = DatabaseHelper();
   String appBarTitle;
   Note note;
+  final List<String> _priorities = Util.priorities;
 
   NoteDetailState(this.note, this.appBarTitle);
 
@@ -69,7 +70,7 @@ class NoteDetailState extends State<NoteDetail> {
                                     color: Colors.red)),
                           );
                         }).toList(),
-                        value: getPrioritiyAsString(note.priority),
+                        value: Util.getPrioritiyAsString(note.priority),
                         onChanged: (valueSelectedByUser) {
                           setState(() {
                             updatePriorityAsInt(valueSelectedByUser);
@@ -213,19 +214,6 @@ class NoteDetailState extends State<NoteDetail> {
         note.priority = 2;
         break;
     }
-  }
-
-  String getPrioritiyAsString(int value) {
-    String priority;
-    switch (value) {
-      case 1:
-        priority = _priorities[0];
-        break;
-      case 2:
-        priority = _priorities[1];
-        break;
-    }
-    return priority;
   }
 
   Future<bool> moveToLastScreen() async {

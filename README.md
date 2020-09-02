@@ -1,5 +1,3 @@
-![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg "Hacktoberfest")
-
 [![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # 🎃 Welcome to Hacktober Fest 2019 🎃

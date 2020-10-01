@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# 🎃 Welcome to Hacktober Fest 2019 🎃
+# 🎃 Welcome to Hacktober Fest 2020 🎃
 
 Even before you get started, sign up with your GitHub profile on the following website to register all of your pull requests.
 

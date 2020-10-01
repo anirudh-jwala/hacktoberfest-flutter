@@ -35,3 +35,9 @@
 - Place: India
 - Bio: Software Developer
 - GitHub: [Abhishek Reddy](https://github.com/abhishek-07)
+
+#### Name: [Salvatore](https://github.com/711sarthak)
+
+- Place: India
+- Bio:Student
+- GitHub: [Salvatore](https://github.com/711sarthak)

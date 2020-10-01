@@ -30,7 +30,7 @@
 - Bio: Computer Science Intern
 - GitHub: [Mirza-Younus-Baig](https://github.com/Mirza-Younus-Baig)
 
-### Name: [Abhishek Reddy](https://github.com/abhishek-07)
+#### Name: [Abhishek Reddy](https://github.com/abhishek-07)
 
 - Place: India
 - Bio: Software Developer

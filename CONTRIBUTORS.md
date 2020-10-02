@@ -35,3 +35,9 @@
 - Place: India
 - Bio: Software Developer
 - GitHub: [Abhishek Reddy](https://github.com/abhishek-07)
+
+#### Name: [Mayur Patil](https://github.com/mayurpatilll)
+
+- Place: India
+- Bio: Software Developer
+- GitHub: [Mayur Patil](https://github.com/mayurpatilll)

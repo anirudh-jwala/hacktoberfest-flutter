@@ -21,7 +21,9 @@ This repository is highly exclusive to encourage upcoming flutter developers. Sh
 ## Steps
 - Fork the repo
 - Add a new flutter project
-- Add screenshots
+  - Follow the folder structure of naming
+  - Delete unnecessary files like local settings and firebase details
+- Add screenshots/videos
 - Send pull request
 
 Cheers!

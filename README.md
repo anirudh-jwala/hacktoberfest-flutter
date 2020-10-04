@@ -6,28 +6,22 @@ Even before you get started, sign up with your GitHub profile on the following w
 
 Link: [Hacktoberfest by Digital Ocean](https://hacktoberfest.digitalocean.com/)
 
-To qualify for the official limited edition Hacktoberfest shirt, you must register and then make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest.
-
-## Flutter
-This repository is highly exclusive to encourage upcoming flutter developers. Showcase your flutter & dart skills to the world.
-
-Highly encourage you to attach screen-shots of your work to show more effectiveness.
+## Instructions
+This repository is highly exclusive to encourage upcoming flutter developers. Showcase your flutter & dart skills to the world. Highly encourage you to attach screen-shots of your work to show more effectiveness.
 
 ### Attach your details in `CONTRIBUTORS.md` in following manner
 
 ```
 #### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
+- Place: City, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 ```
 
 ## Steps
 - Fork the repo
-- Do changes 
-- Send pull request 
-- Earn T-Shirt & Swags
-
-![flutter](https://miro.medium.com/max/1024/1*9hUbiy9uSWAFztyw5nMYXQ.png)
+- Add a new flutter project
+- Add screenshots
+- Send pull request
 
 Cheers!

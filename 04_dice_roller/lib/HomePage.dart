@@ -117,10 +117,12 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ],
               ),
-              Container(
-                margin: EdgeInsets.only(top: 100.0),
-                child: RaisedButton(
-                  color: Colors.green,
+              SizedBox(
+                width: double.infinity,
+                height: 20, 
+                
+                  RaisedButton(
+                  color: Colors.red,
                   padding: EdgeInsets.fromLTRB(30.0, 15.0, 30.0, 15.0),
                   child: Text(
                     'Roll the Dice!',
@@ -129,11 +131,11 @@ class _HomePageState extends State<HomePage> {
                   onPressed: (){
                     rollDice();
                   },
-                  elevation: 30.0,
+                  elevation: 35.0,
                   shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(30.0),
+                    borderRadius: BorderRadius.circular(25.0),
                   ),
-                ),
+                
               ),
             ],
           ),

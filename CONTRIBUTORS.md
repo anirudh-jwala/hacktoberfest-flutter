@@ -35,3 +35,9 @@
 - Place: India
 - Bio: Software Developer
 - GitHub: [Abhishek Reddy](https://github.com/abhishek-07)
+
+#### Name: [Samkit Jain](https://github.com/Samkit3004)
+
+- Place: India
+- Bio: App Developer
+- GitHub: [Samkit Jain](https://github.com/Samkit3004)

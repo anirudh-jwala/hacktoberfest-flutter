@@ -16,7 +16,8 @@ void main() => runApp(
         // * Center() is a very commonly used widget, and under this, we are going to pass a "child" element
         Center(
       child: Text(
-        "Hello, World!",
+        "Hello, App!",
+       style: TextStyle(fontsize: 25),
         textDirection: TextDirection.ltr,
       ),
     ));

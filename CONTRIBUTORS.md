@@ -35,3 +35,8 @@
 - Place: India
 - Bio: Software Developer
 - GitHub: [Abhishek Reddy](https://github.com/abhishek-07)
+
+#### Name: [Sai Nitesh](https://github.com/sainiteshb)
+- Place: India
+- Bio: Software Developer
+- GitHub: [sainiteshb](https://github.com/sainiteshb)

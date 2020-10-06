@@ -35,3 +35,8 @@
 - Place: India
 - Bio: Software Developer
 - GitHub: [Abhishek Reddy](https://github.com/abhishek-07)
+
+#### Name: [Md Zaid Ansari](https://github.com/razorcalhn)
+- Place: Delhi, India
+- Bio: B.Tech final year student (IT)
+- GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)

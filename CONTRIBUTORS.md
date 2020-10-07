@@ -46,3 +46,8 @@
 - Place: India
 - Bio: Software Developer
 - GitHub: [sainiteshb](https://github.com/sainiteshb)
+
+#### Name: [Md Zaid Ansari](https://github.com/razorcalhn)
+- Place: Delhi,India
+- Bio: B.Tech(IT) final year, interested in developing new and better apps.
+- GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)

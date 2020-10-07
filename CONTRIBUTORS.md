@@ -36,6 +36,12 @@
 - Bio: Software Developer
 - GitHub: [Abhishek Reddy](https://github.com/abhishek-07)
 
+#### Name: [Amey Sunu](https://github.com/ameysunu)
+
+- Place: Kampala, Uganda
+- Bio: Flutter Developer
+- GitHub: [Amey Sunu](https://github.com/ameysunu)
+
 #### Name: [Sai Nitesh](https://github.com/sainiteshb)
 - Place: India
 - Bio: Software Developer

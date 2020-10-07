@@ -41,3 +41,8 @@
 - Place: Kampala, Uganda
 - Bio: Flutter Developer
 - GitHub: [Amey Sunu](https://github.com/ameysunu)
+
+#### Name: [Sai Nitesh](https://github.com/sainiteshb)
+- Place: India
+- Bio: Software Developer
+- GitHub: [sainiteshb](https://github.com/sainiteshb)

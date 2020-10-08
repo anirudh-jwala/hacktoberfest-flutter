@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:2:3-36
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml:3:22-76
+uses-sdk
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml
+INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml
+		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\geolocator-5.3.1\android\src\main\AndroidManifest.xml

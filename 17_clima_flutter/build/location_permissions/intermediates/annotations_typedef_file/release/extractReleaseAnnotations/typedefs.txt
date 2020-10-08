@@ -1,0 +1,2 @@
+D com/baseflow/location_permissions/LocationPermissionsPlugin$PermissionStatus
+D com/baseflow/location_permissions/LocationPermissionsPlugin$ServiceStatus

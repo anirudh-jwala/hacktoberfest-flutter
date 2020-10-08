@@ -51,3 +51,8 @@
 - Place: Delhi,India
 - Bio: B.Tech(IT) final year, interested in developing new and better apps.
 - GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)
+
+#### Name: [Smarajit Das](https://github.com/sdas969)
+- Place: India
+- Bio: Flutter Developer
+- GitHub: [Smarajit Das](https://github.com/sdas969)

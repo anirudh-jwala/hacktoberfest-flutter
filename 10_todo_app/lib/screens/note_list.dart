@@ -108,7 +108,7 @@ class _NoteListState extends State<NoteList> {
     );
 
     if (result == true) {
-      // Update the view
+      setState(() {});
     }
   }
 }

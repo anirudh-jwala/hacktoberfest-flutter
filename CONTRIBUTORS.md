@@ -51,3 +51,8 @@
 - Place: Delhi,India
 - Bio: B.Tech(IT) final year, interested in developing new and better apps.
 - GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)
+
+### Name: [Ghost-017](https://github.com/Ghost-017)
+- Place: The Philippines
+- Bio: Self-taught
+- Github: [Ghost-017](https://github.com/Ghost-017)

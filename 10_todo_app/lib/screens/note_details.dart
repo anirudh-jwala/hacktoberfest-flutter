@@ -88,7 +88,7 @@ class NoteDetailState extends State<NoteDetail> {
                       updateTitle();
                     },
                     decoration: InputDecoration(
-                      labelText: 'Title',
+                      labelText: 'Title*',
                       labelStyle: textStyle,
                       icon: Icon(Icons.title),
                     ),
@@ -105,7 +105,7 @@ class NoteDetailState extends State<NoteDetail> {
                       updateDescription();
                     },
                     decoration: InputDecoration(
-                      labelText: 'Details',
+                      labelText: 'Details (optional)',
                       icon: Icon(Icons.details),
                     ),
                   ),

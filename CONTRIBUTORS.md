@@ -51,3 +51,8 @@
 - Place: Delhi,India
 - Bio: B.Tech(IT) final year, interested in developing new and better apps.
 - GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)
+
+#### Name: [Apoorv Maheshwari](https://github.com/Apoorv-cloud)
+- Place: Aligarh, Uttar Pradesh
+- Bio: Flutter Developer, B.Tech(CSE) 2nd Year student.
+- GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud) 

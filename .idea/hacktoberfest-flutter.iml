@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/00_hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/00_hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/01_stateless_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/01_stateless_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02_stateful_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02_stateful_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03_background_changer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03_background_changer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_dice_roller/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_dice_roller/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_tic_tac_toe/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_tic_tac_toe/build" />
+      <excludeFolder url="file://$MODULE_DIR$/06_scratch_n_win/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_scratch_n_win/build" />
+      <excludeFolder url="file://$MODULE_DIR$/07_spanish_number_audio/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/07_spanish_number_audio/build" />
+      <excludeFolder url="file://$MODULE_DIR$/08_github_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/08_github_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/09_random_user_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/09_random_user_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/10_todo_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/10_todo_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/11_firebase_login_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/11_firebase_login_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/12_firebase_contacts_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/12_firebase_contacts_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/13_employee_management_bloc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/13_employee_management_bloc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/14_wallpaper_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/14_wallpaper_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/15_dialogflow_chatbot/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/15_dialogflow_chatbot/build" />
+      <excludeFolder url="file://$MODULE_DIR$/16_world_time/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/16_world_time/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

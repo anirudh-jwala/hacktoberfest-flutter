@@ -51,3 +51,8 @@
 - Place: Delhi,India
 - Bio: B.Tech(IT) final year, interested in developing new and better apps.
 - GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)
+
+#### Name: [Vaibhav Agarwal](https://github.com/debugger13524)
+- Place: Delhi,India
+- Bio: B.Tech 2nd Year @DTU
+- GitHub: [Vaibhav Agarwal](https://github.com/debugger13524)

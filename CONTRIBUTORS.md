@@ -51,3 +51,8 @@
 - Place: Delhi,India
 - Bio: B.Tech(IT) final year, interested in developing new and better apps.
 - GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)
+
+#### Name : [Brajesh Kumar Roy](https://github.com/bkrroy)
+- Place: Dehradun, India
+- Bio: B.Tech(CSE) second year
+- GitHub: [Brajesh Kumar Roy](https://github.com/bkrroy)

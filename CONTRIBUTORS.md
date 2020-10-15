@@ -51,3 +51,9 @@
 - Place: Delhi,India
 - Bio: B.Tech(IT) final year, interested in developing new and better apps.
 - GitHub: [Md Zaid Ansari](https://github.com/razorcalhn)
+
+
+#### Name: [Amit Verma](https://github.com/amitverma-cf)
+- Place: India
+- Bio: Freelance Flutter Developer.
+- GitHub: [amitverma-cf](https://github.com/amitverma-cf)

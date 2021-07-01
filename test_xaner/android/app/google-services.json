@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663809229642",
+    "firebase_url": "https://cscan-53ccb.firebaseio.com",
+    "project_id": "cscan-53ccb",
+    "storage_bucket": "cscan-53ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663809229642:android:26605d75733d51e26ff7b3",
+        "android_client_info": {
+          "package_name": "com.example.test_xaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663809229642-oqai9s05ta8h5l3ttrok70j51bcinc13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMK8lKA20o1HH3gvp6HXKtNu5TUGnUbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663809229642-oqai9s05ta8h5l3ttrok70j51bcinc13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
